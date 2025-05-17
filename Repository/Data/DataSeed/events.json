@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "MusicEvent",
+    "Description": "Test",
+    "Date": "2025-06-09T15:12:30.064",
+    "Venue": "Dahab",
+    "Price": 200.00,
+    "ImageUrl": "https://th.bing.com/th/id/OIP.W2giC8TjletygTa_fV67_AHaE8?rs=1&pid=ImgDetMain",
+    "CategoryId": 1
+  },
+  {
+    "Name": "CarEvent",
+    "Description": "Test",
+    "Date": "2025-06-09T15:12:30.064",
+    "Venue": "Cairo",
+    "Price": 200.00,
+    "ImageUrl": "https://th.bing.com/th/id/OIP.TgYnj8WmPYv7iDjANe1pCgHaE7?rs=1&pid=ImgDetMain",
+    "CategoryId": 2
+  },
+  {
+    "Name": "FoodEvent",
+    "Description": "Test",
+    "Date": "2025-06-09T15:12:30.064",
+    "Venue": "Alex",
+    "Price": 200.00,
+    "ImageUrl": "https://s3.amazonaws.com/secretsaucefiles/photos/images/000/117/579/large/_feastportland-2.png?1485412625",
+    "CategoryId": 3
+  }
+]
